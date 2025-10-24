@@ -10,7 +10,6 @@ I specialize in creating clean, efficient, and maintainable solutions — from b
 - ☁️ Experienced with **cloud platforms** like **AWS**, **Azure**, and **Docker/Kubernetes** for scalable deployments.
 - 🧩 Skilled in **microservices architecture**, **RESTful APIs**, and **secure authentication** (OAuth2, JWT).
 - ⚙️ Advocate of **clean architecture**, **code quality**, and **CI/CD automation**.
-- 🌎 Based in Buenos Aires, Argentina — working remotely with U.S. and global teams.
 - 🚀 Enjoy collaborating in fast-paced startup environments and building products from concept to launch.
 
 ---
